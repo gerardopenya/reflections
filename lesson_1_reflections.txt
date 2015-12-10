@@ -1,0 +1,48 @@
+see the right spot where the differences are, letme see if one of those changes introduce a bug.
+spot the lines where the changes are letme concentrate my efforts only in those places and not wasting time looking for places where there are no differences.
+
+
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+
+I can't keep the whole content of each file in my mind, and lesser the whole history of changes. if i have a crhronological access to the evolution of a file i can see the process of my own thinking.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+
+
+pros - I can use my own judge (after i know about reflect manual commits explained in this course) to save my work in an ordered manner so i can keep track of changes. Lots of commits, is equals a lots of versions, that is not helpful when i need to find a bug or change my mind about a solution in my code.
+
+cons - if Im not aware of a good practice about doing commits i can fall in tooo many commits so they are useless when i try to find a point of "rupture"  OR i can fall in the other direction, making too many changes between commits so when i come up to compare two versions there are loots of changes making it useles too.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+because it is oriented to version conttrol of programming systems that are composed of maye houndreds of files. 
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log shows the real history of changes in a file that has been commited. so when i want to find changes between diferent versions first i need to find out the id of those versions with git log.  once i found the versions i want to compare simply use the ids as parameters of git diff that then will show the differences.
+
+
+
+
+
+
+
+How might using version control make you more confident to make changes that could break something?
+
+
+I think that this way I can explore new aproches to many solutions as i want without the assle of get lost on my own code.  I think i will love git... in fact i start to think how ive been living without using it 
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+
+I can't waith for use it in my first project. I need to build a android app and I' taking the course in udacity about making mobile apps scalable. so there is where i will practice 
+GIT
