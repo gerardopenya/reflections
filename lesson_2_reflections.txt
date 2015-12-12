@@ -41,3 +41,17 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Seems that merging two branches only interleaves the two paths and put each commit in the order it was made. The diagram help us to see more clearle what is happening. 
 This is only a kind of visual effect. I guess the MOST important step and where I need to put attention is in create the new node (commit) that will contain the whole changes of the two branches.
+
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic
+Pros.- Its great that things works without me worring about if it is doing it well...
+Cons.- Its great that things works without me worring about if ... it is doing it well?
+
+Manually
+Pros.-hhmmmmm it would be great that this works without worring me about it... but... i think i need to wait until computers read my mind set... and of the others...
+
+Cons.- it is a long wait...
