@@ -7,3 +7,37 @@ git creates a hidden folder where it will put the history of the repository. thi
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 it is a intermediate between both the working directory and the repository. it helps to has more control over what files are part of each commit
+
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can make a check list over the files that have been modified and what changes they contains even if I make a break by comparing with the "gti diff" (no args) command
+
+When I pretty shure all this logical change is completed and stagged I can do git commit :)
+
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+I think branches are really helpfull as the example has shown. I can create different versions of the project when i want to explore a new approach that maybe can make huge differences in the 
+project behaviour. But, this can lead us to a nightmare of branches?  
+
+
+mmmmhhh well the next videos make me rethink about it... it can be a real pain itb, the way to avoid this is with good judment and documentation... after all... the whole world of open source keeps going this way so it can be done...
+
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+Surely they help. I've to repeat some of these videos 'cause i didn't getit quite well at first time.
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Seems that merging two branches only interleaves the two paths and put each commit in the order it was made. The diagram help us to see more clearle what is happening. 
+This is only a kind of visual effect. I guess the MOST important step and where I need to put attention is in create the new node (commit) that will contain the whole changes of the two branches.
