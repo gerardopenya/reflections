@@ -50,3 +50,10 @@ of the remote stored locally?
 
 
 
+When would you want to make changes in a separate 
+branch rather than directly in master? What benefits 
+does each approach have?
+
+		When we talk about creatin branches I was unsure if the ability of use branches can transform a project or repository in a scary web of versions. At the time were talking about only local branches.
+		With the use of them in GitHub it is clear that can help to work bether with the changes each colaborator can make. Now I can imagine in a real opensource project like linux this task can be huge and overwelming but it is the only way to doit.
+
