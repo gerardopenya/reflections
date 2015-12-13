@@ -13,3 +13,12 @@ with your remote repository?
 		I don't know I, think it is little subjective. If I have two computers and I make changes over the weekend or at night. so in the monday morning at office i would need that work ...So I have to make the push even if that version is not operational.
 
 
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+
+		Forks.- It is a special kind of clone but in the context of GitHub
+		Clones.-It is when a copy of a commit history is made to the local computer through git
+		Branches.-Is a point where we can make changes that are proof of concept and maybe not part of the final version or at least at the moment. I guess it is a special kind of clone. 
+
