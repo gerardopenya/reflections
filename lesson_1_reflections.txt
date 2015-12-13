@@ -49,5 +49,4 @@ to make changes that could break something?
 Now that you have your workspace set up, what
 do you want to try using Git for?
 
-		I can't waith for use it in my first project. I need to build a android app and I' taking the course in udacity about making mobile apps scalable. so there is where i will practice 
-		GIT
+		I can't waith for use it in my first project. I need to build a android app and I' taking the course in udacity about making mobile apps scalable. So there is where I will get practice with GIT
