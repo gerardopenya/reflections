@@ -2,8 +2,8 @@ When would you want to use a remote repository rather
 than keeping all your work local?
 
 	    When I work in a colaborative way with other programmers.
-	    And if i could something cool for anyone to share and so they can make their own versions.
-	    And if i have no acces to my own computer and I need to make some changes ASAP to my project.
+	    And if I could make something cool for anyone to share and so they can make their own versions.
+	    And if I have no acces to my own computer and I need to make some changes ASAP to my project.
 
 Why might you want to always pull changes manually rather 
 than having Git automatically stay up-to-date 
@@ -42,4 +42,11 @@ of the remote stored locally?
 
 
 	
+	How would you collaborate without using Git or GitHub? 
+	What would be easier, and what would be harder?
+
+		There are many tools to colaborate. I'm be working 15 years in bank environments and we use old tools like changeman, and there are special areas called "version control"... always a disaster :))
+		Now I can laugh at them and use Git and GitHub. Surely these are somewhat trikky now but a week ago I hardly know about them, so I'm sure that with some practice and time I'll master these tools and make a jump from the stone age :))
+
+
 
