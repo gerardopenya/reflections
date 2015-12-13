@@ -22,3 +22,24 @@ When would you use one instead of another?
 		Clones.-It is when a copy of a commit history is made to the local computer through git
 		Branches.-Is a point where we can make changes that are proof of concept and maybe not part of the final version or at least at the moment. I guess it is a special kind of clone. 
 
+
+
+What is the benefit of having a copy of the last known state 
+of the remote stored locally?
+
+		This way I can spot any change made by any colaborator over a repository while I'm off line.
+		Guess then that is a good practice if thats gonna be the case that I update my local repository (origin/master) through a pull or push OR WITH A FETCH (that will update all of the local copies of every branch for the origin remote) so I go off line. When I come back I will use the merge command.
+
+		With this command I will have a new updated origin/master with the changes made in GitHub and it will be merged with the changes I do wile offline locally in master, surely there will be merge conflicts that will be resolved manually.
+
+		git pull origin master   ====     git fetch origin
+		                                  git merge master origin/master
+
+
+		Inspect local copies   ==== git log origin/master
+		                            git diff origin/master master
+
+
+
+	
+
